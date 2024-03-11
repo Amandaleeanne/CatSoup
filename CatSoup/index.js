@@ -1,0 +1,5 @@
+function changeTextColor(){
+    while(go){
+
+    }
+}
